@@ -25,6 +25,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadAzzam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="35%" height ="25%">
 </div>
 
-
+![snake animation](https://github.com/ZeyadAzzam/ZeyadAzzam/blob/output/github-contribution-grid-snake2.svg)
 ---
 
