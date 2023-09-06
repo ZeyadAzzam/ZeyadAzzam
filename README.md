@@ -3,7 +3,7 @@
 <!--<img align ="right" width="400" src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">-->
 <img  align="center" height="50" src="https://profile-counter.glitch.me/ZeyadAzzam/count.svg"><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD700&size=30&lines=A+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD700&size=30&lines=Software+Engineer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **React,Angular,Marvin**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I'm Alien 👀**
 
-## <b> Contact Me..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contact Me..!</b><img src="https://github.com/ZeyadAzzam/ZeyadAzzam/raw/main/assets/mdImages/handshake.gif" width ="80">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ziad.obeidat.vip) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zl7d_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-al-azzam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zl7d) 
 
 ## 🛠️ My Skills:
@@ -27,5 +27,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZeyadAzzam&icon=5&color=0)](https://visitcount.itsvg.in)
 
