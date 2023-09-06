@@ -3,7 +3,7 @@
 <!--<img align ="right" width="400" src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">-->
 <img  align="center" height="50" src="https://profile-counter.glitch.me/ZeyadAzzam/count.svg"><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=006400&size=30&lines=A+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD700&size=30&lines=A+Front-End+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **React,Angular,Marvin**
 
