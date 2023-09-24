@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD700&size=30&lines=Software+Engineer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **React,Angular,Marvin**
+- 🌱 I’m currently learning **React,Angular,Mavin!**
 
 - 💬 Ask me about **Web Design**
 
