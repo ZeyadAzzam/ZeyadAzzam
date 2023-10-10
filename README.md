@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React,Angular,Mavin!**
 
-- 💬 Ask me about **Web Desigb**
+- 💬 Ask me about **Web Design**
 
 - 📫 How to reach me **ziadazam2001@gmail.com**
 
