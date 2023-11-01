@@ -3,7 +3,7 @@
 <!--<img align ="right" width="400" src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">-->
 <div align="center">
 
- <h1> Profile Views 👀.!</h1> <img  align="center" height="50" src="https://profile-counter.glitch.me/ZeyadAzzam/count.svg">
+ <h1> Profile View 👀.!</h1> <img  align="center" height="50" src="https://profile-counter.glitch.me/ZeyadAzzam/count.svg">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFD700&size=30&lines=Software+Engineer)](https://git.io/typing-svg)
