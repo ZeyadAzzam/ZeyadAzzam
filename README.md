@@ -11,11 +11,10 @@
 </div>
 
 
-- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Web Design**
+- 💬 Ask me about **Web Design** and **Server**
 
-- 📫 How to reach me **ziadazam2001@gmail.com**
+- 📫 How to reach me **alazzam.zack@gmail.com**
 
 - ⚡ Fun fact **I think I'm Alien 👀**
 
